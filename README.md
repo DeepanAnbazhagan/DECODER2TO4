@@ -1,6 +1,6 @@
 # DECODER2TO4
 # AIM:
-To simulate and synthesis Decoder 2 to 4 using Vivado software.
+To simulate and synthesis of  Decoder 2 to 4 using Vivado software.
 # APPARATUS REQUIRED:
 Vivado 2023.1 software.
 
